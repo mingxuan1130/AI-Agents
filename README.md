@@ -11,6 +11,6 @@ This repository contains a collection of AI-powered projects showcased on my web
 
 ## Development Approach
 
-All projects in this repository were developed using **Prompt-Oriented Programming** - created purely with AI prompts without traditional manual coding. This approach demonstrates the power of modern AI tools in software development.
+This repository showcases projects built using **Prompt-Oriented Programming (POP)** —a paradigm that goes beyond simple prompt engineering. POP is about delegating tasks to AI, focusing on how to make AI work better rather than just writing beautiful code ourselves. It emphasizes **workflow design** and **AI-human collaboration** to optimize software development.
 
-Feel free to explore each project folder for more specific information about individual implementations. 
+All projects were created purely through AI-generated prompts, without traditional manual coding, demonstrating the power of modern AI tools.
